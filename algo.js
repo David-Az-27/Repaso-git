@@ -1,3 +1,3 @@
-function texto(){
-    alert ("hijueputa no se nada");
+function texto() {
+  alert("hijueputa no se nada");
 }
